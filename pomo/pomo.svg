@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="3cm" height="3cm" viewBox="477 263 53 58" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #ff6347" cx="504" cy="295.5" rx="25" ry="25"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff6347" cx="504" cy="295.5" rx="25" ry="25"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff6347" cx="504" cy="295.5" rx="25" ry="25"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #008000" x1="501" y1="265" x2="502.639" y2="271.555"/>
+    <polygon style="fill: #008000" points="504.458,278.831 497.182,270.342 502.639,271.555 506.883,267.917 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #008000" points="504.458,278.831 497.182,270.342 502.639,271.555 506.883,267.917 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #008000" x1="492" y1="275" x2="495.377" y2="274.48"/>
+    <polygon style="fill: #008000" points="502.79,273.34 493.667,279.802 495.377,274.48 492.146,269.919 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #008000" points="502.79,273.34 493.667,279.802 495.377,274.48 492.146,269.919 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #008000" x1="514" y1="273" x2="512.736" y2="273"/>
+    <polygon style="fill: #008000" points="505.236,273 515.236,268 512.736,273 515.236,278 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #008000" points="505.236,273 515.236,268 512.736,273 515.236,278 "/>
+  </g>
+</svg>
